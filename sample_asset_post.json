@@ -1,0 +1,11 @@
+{
+    "AssetName": "webapp-05",
+    "AssetType": "virtual::server",
+    "CostCenter": 215,
+    "CostPerHour": 0,
+    "CostType": "NA",
+    "Department": "IT",
+    "Model": "VM",
+    "OperatingSystem": "Windows 2016",
+    "Vendor": "Xen"
+}
